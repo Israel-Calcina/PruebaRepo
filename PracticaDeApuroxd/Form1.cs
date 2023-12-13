@@ -33,7 +33,7 @@ namespace PracticaDeApuroxd
         {
             //Conexion SQL
             Conexion.Conectar();
-            MessageBox.Show("Conexion existosa");
+            MessageBox.Show("esto es una prueba de github");
 
             dataGridView1.DataSource = llenar_grid();
         }
